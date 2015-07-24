@@ -1,0 +1,9 @@
+de:
+  hello: "Hallo Welt"
+  default_mailer:
+    confirm_task:
+      subject: "Task aktualisiert"
+  projects:
+    name: "Name"
+    description: "Beschreibung"
+    ends_at: "Endet am"
